@@ -53,7 +53,7 @@
 - Possibly accumulate a Resource list of youtube channels, books, news outlets, podcasts which do a good job of giving unbiased accounts of the forces at play in the world.
     - Ex: This post with some youtube channels listed: https://www.reddit.com/r/MassMove/comments/evknjx/boosting_existing_antimisinformation/
     - Ex: AllSides Balanced news showing side-by-side stories from left/center/right.
-Set up the Github-hosted website which is currently still blank (At some point we might want to move our main operation off of Reddit).
+- Set up the Github-hosted website which is currently still blank (At some point we might want to move our main operation off of Reddit).
 
 ## Hosting a fake-news database
 - u/sld has created a comprehensive database which links sites, ips, fb/google analytics trackers, etc. as a graph
